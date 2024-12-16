@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Who won the 3rd congressional district of Massachusetts in the 2022 U.S. midterm elections?\nA. Robert Burke B. Jake Auchincloss C. Lori Trahan D. Dean Tran",
+        "answer": "C",
+        "id": 0,
+        "predicted_output": "C. Lori Trahan",
+        "number_of_entity_not_found": 0,
+        "named_entity": 8
+    },
+    {
+        "question": "Who won the 2nd congressional district of South Carolina in the 2022 U.S. midterm elections?\nA. Joe Wilson B. Judd Larkins C. Judd Larkins D. Evangeline Hundley",
+        "answer": "A",
+        "id": 1,
+        "predicted_output": "B",
+        "number_of_entity_not_found": 3,
+        "named_entity": 8
+    },
+    {
+        "question": "Who won the 25th congressional district of New York in the 2022 U.S. midterm elections?\nA. Tina Forte B. Gregory W. Meeks C. La'Ron Singletary D. Joseph Morelle",
+        "answer": "D",
+        "id": 2,
+        "predicted_output": "B",
+        "number_of_entity_not_found": 1,
+        "named_entity": 8
+    },
+    {
+        "question": "Who won the senate race of Idaho in the 2022 U.S. midterm elections?\nA. Mike Crapo B. Kaylee Peterson C. Russ Fulcher D. David Roth",
+        "answer": "A",
+        "id": 3,
+        "predicted_output": "C",
+        "number_of_entity_not_found": 1,
+        "named_entity": 8
+    },
+    {
+        "question": "Who won the 6th congressional district of Oregon in the 2022 U.S. midterm elections?\nA. Mike Erickson B. Ron Wyden C. Andrea Salinas D. Andrea Salinas",
+        "answer": "C",
+        "id": 4,
+        "predicted_output": "D",
+        "number_of_entity_not_found": 0,
+        "named_entity": 8
+    }
+]

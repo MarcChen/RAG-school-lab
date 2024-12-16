@@ -3,7 +3,7 @@
         "question": "Who won the 6th congressional district of Maryland in the 2022 U.S. midterm elections?\nA. David Trone B. Kweisi Mfume C. Neil Parrott D. Scott Collier",
         "answer": "A",
         "id": 5,
-        "predicted_output": "A"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 14th congressional district of California in the 2022 U.S. midterm elections?\nA. Norma Torres B. Eric Swalwell C. Alison Hayden D. Jimmy Panetta",
@@ -21,7 +21,7 @@
         "question": "Who won the 5th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Sandy Smith B. Virginia Foxx C. Deborah Ross D. Kyle Parrish",
         "answer": "B",
         "id": 8,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the governor race of New Hampshire in the 2022 U.S. midterm elections?\nA. Chris Pappas B. Tom Sherman C. Chris Sununu D. Tom Sherman",
@@ -39,7 +39,7 @@
         "question": "Who won the 24th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Chip Roy B. Patrick Gillespie C. Beth Van Duyne D. Jan McDowell",
         "answer": "C",
         "id": 11,
-        "predicted_output": "A"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 25th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Roger Williams B. Patrick Gillespie C. N/A D. Lance Gooden",
@@ -75,13 +75,13 @@
         "question": "Who won the 2nd congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Mark Pocan B. Mark Pocan C. Erik Olsen D. Mandela Barnes",
         "answer": "A",
         "id": 17,
-        "predicted_output": "A!"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 14th congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Marcus Flowers B. Buddy Carter C. Marjorie Taylor Greene D. Wade Herring",
         "answer": "C",
         "id": 18,
-        "predicted_output": "C"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 23rd congressional district of Texas in the 2022 U.S. midterm elections?\nA. John Lira B. Robert Schafranek C. Roger Williams D. Tony Gonzales",
@@ -93,7 +93,7 @@
         "question": "Who won the 11th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Greg Murphy B. Jasmine Beach-Ferrara C. Charles Graham D. Chuck Edwards",
         "answer": "D",
         "id": 20,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 6th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Frank Pallone B. Paul DeGroot C. Sue Kiley D. Tom Malinowski",
@@ -105,7 +105,7 @@
         "question": "Who won the 17th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Andrea Kale B. Joe Hannoush C. Greg Steube D. Ron DeSantis",
         "answer": "C",
         "id": 22,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of Tennessee in the 2022 U.S. midterm elections?\nA. Wayne Steele B. Wayne Steele C. Scott DesJarlais D. Scott DesJarlais",
@@ -129,7 +129,7 @@
         "question": "Who won the 8th congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Paul Boucher B. Mike Gallagher C. Brad Pfaff D. Erik Olsen",
         "answer": "B",
         "id": 26,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 4th congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Tim Rogers B. Gwen Moore C. Ron Johnson D. Ann Roe",
@@ -147,7 +147,7 @@
         "question": "Who won the 6th congressional district of Missouri in the 2022 U.S. midterm elections?\nA. Emanuel Cleaver B. Sam Graves C. Kristen Radaker-Sheafer D. Henry Martin",
         "answer": "B",
         "id": 29,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the senate race of Pennsylvania in the 2022 U.S. midterm elections?\nA. John Fetterman B. Summer Lee C. Jim Bognet D. Mehmet Oz",
@@ -171,13 +171,13 @@
         "question": "Who won the 4th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Jim Jordan B. Shontel Brown C. Tamie Wilson D. J. R. Majewski",
         "answer": "A",
         "id": 33,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Minnesota in the 2022 U.S. midterm elections?\nA. Brad Finstad B. Tom Emmer C. May Lor Xiong D. Jeff Ettinger",
         "answer": "A",
         "id": 34,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of Indiana in the 2022 U.S. midterm elections?\nA. Matthew Fyfe B. Jim Baird C. Roger Day D. Frank J. Mrvan",
@@ -201,13 +201,13 @@
         "question": "Who won the 18th congressional district of California in the 2022 U.S. midterm elections?\nA. Zoe Lofgren B. Peter Hernandez C. Tom McClintock D. Brian Dahle",
         "answer": "A",
         "id": 38,
-        "predicted_output": "A!"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 11th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Lloyd Smucker B. N/A C. Brendan Boyle D. Bob Hollister",
         "answer": "A",
         "id": 39,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 9th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Billy Prempeh B. Bill Pascrell C. Billy Prempeh D. Paul DeGroot",
@@ -231,7 +231,7 @@
         "question": "Who won the 3rd congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Tudor Dixon B. Dan Kildee C. John Gibbs D. Hillary Scholten",
         "answer": "D",
         "id": 43,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the senate race of Ohio in the 2022 U.S. midterm elections?\nA. J. D. Vance B. Tim Ryan C. Madison Gesiotto D. David Joyce",
@@ -261,13 +261,13 @@
         "question": "Who won the 5th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Lance Gooden B. Tartisha Hill C. Cassy Garcia D. Nathan Lewis",
         "answer": "A",
         "id": 48,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 10th congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Tabitha Johnson-Green B. Mike Ford C. Mike Collins D. Mike Collins",
         "answer": "C",
         "id": 49,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 43rd congressional district of California in the 2022 U.S. midterm elections?\nA. Maxine Waters B. Omar Navarro C. Juan Vargas D. Mike Cargile",
@@ -285,7 +285,7 @@
         "question": "Who won the 2nd congressional district of Mississippi in the 2022 U.S. midterm elections?\nA. Brian Flowers B. Brian Flowers C. Dianne Black D. Bennie Thompson",
         "answer": "D",
         "id": 52,
-        "predicted_output": "C"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 13th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Wiley Nickel B. Bo Hines C. Bo Hines D. Dan Bishop",
@@ -303,7 +303,7 @@
         "question": "Who won the 4th congressional district of Virginia in the 2022 U.S. midterm elections?\nA. Yesli Vega B. Leon Benjamin C. Rob Wittman D. Donald McEachin",
         "answer": "D",
         "id": 55,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 7th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Susan Wild B. Brian Fitzpatrick C. Matt Cartwright D. Lisa Scheller",
@@ -339,7 +339,7 @@
         "question": "Who won the 1st congressional district of Kentucky in the 2022 U.S. midterm elections?\nA. Jimmy Ausbrooks B. Rand Paul C. Matt Lehman D. James Comer",
         "answer": "A",
         "id": 61,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 33rd congressional district of Texas in the 2022 U.S. midterm elections?\nA. Trey Hunt B. Patrick Gillespie C. Marc Veasey D. Lizzie Fletcher",
@@ -357,7 +357,7 @@
         "question": "Who won the governor race of Iowa in the 2022 U.S. midterm elections?\nA. Kim Reynolds B. Kim Reynolds C. Liz Mathis D. Deidre DeJear",
         "answer": "A",
         "id": 64,
-        "predicted_output": "A"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the governor race of Colorado in the 2022 U.S. midterm elections?\nA. Marshall Dawson B. Heidi Ganahl C. Jared Polis D. Adam Frisch",
@@ -381,7 +381,7 @@
         "question": "Who won the 2nd congressional district of Kansas in the 2022 U.S. midterm elections?\nA. Sharice Davids B. Patrick Schmidt C. Jake LaTurner D. Patrick Schmidt",
         "answer": "C",
         "id": 68,
-        "predicted_output": "A"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 15th congressional district of New York in the 2022 U.S. midterm elections?\nA. Ritchie Torres B. Stylo Sapaskis C. Adriano Espaillat D. Francis Conole",
@@ -405,7 +405,7 @@
         "question": "Who won the 9th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Brian Jaye B. Brian Jaye C. Jerry Hilliard D. Lisa McClain",
         "answer": "D",
         "id": 72,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Louisiana in the 2022 U.S. midterm elections?\nA. Gary Chambers B. Dan Lux C. Julia Letlow D. Troy Carter",
@@ -423,7 +423,7 @@
         "question": "Who won the 2nd congressional district of Alabama in the 2022 U.S. midterm elections?\nA. Barry Moore B. Will Boyd C. Katie Britt D. Phyllis Harvey-Hall",
         "answer": "A",
         "id": 75,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 11th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Sandeep Srivastava B. N/A C. Kay Granger D. August Pfluger",
@@ -459,31 +459,31 @@
         "question": "Who won the 2nd congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Brendan Boyle B. Aaron Bashir C. Summer Lee D. Brian Fitzpatrick",
         "answer": "A",
         "id": 81,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 2nd congressional district of Oregon in the 2022 U.S. midterm elections?\nA. Christopher Mann B. Jo Rae Perkins C. Joe Yetter D. Cliff Bentz",
         "answer": "D",
         "id": 82,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 5th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Debbie Dingell B. Bart Goldberg C. Tim Walberg D. John Gibbs",
         "answer": "C",
         "id": 83,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the governor race of South Carolina in the 2022 U.S. midterm elections?\nA. Henry McMaster B. Henry McMaster C. Jeff Duncan D. Joe Cunningham",
         "answer": "A",
         "id": 84,
-        "predicted_output": "A."
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Steven Elliott B. Bob Lorinser C. John James D. Jack Bergman",
         "answer": "D",
         "id": 85,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the governor race of Oregon in the 2022 U.S. midterm elections?\nA. Tina Kotek B. Lori Chavez-DeRemer C. Christopher Mann D. Christine Drazan",
@@ -495,7 +495,7 @@
         "question": "Who won the 1st congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Amanda Waldman B. Ashley Ehasz C. Brian Fitzpatrick D. Mehmet Oz",
         "answer": "C",
         "id": 87,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 8th congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Bob Christian B. Austin Scott C. Mark Gonsalves D. Darrius Butler",
@@ -507,7 +507,7 @@
         "question": "Who won the 14th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Frederica Wilson B. James Judge C. Kathy Castor D. Marco Rubio",
         "answer": "C",
         "id": 89,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 10th congressional district of Virginia in the 2022 U.S. midterm elections?\nA. Gerry Connolly B. Herb Jones C. Hung Cao D. Jennifer Wexton",
@@ -555,7 +555,7 @@
         "question": "Who won the senate race of Missouri in the 2022 U.S. midterm elections?\nA. Randi McCallian B. Emanuel Cleaver C. Trudy Busch Valentine D. Eric Schmitt",
         "answer": "D",
         "id": 97,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 18th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Maxwell Frost B. Scott Franklin C. LaShonda Holloway D. Keith Hayden",
@@ -597,7 +597,7 @@
         "question": "Who won the senate race of Iowa in the 2022 U.S. midterm elections?\nA. Michael Franken B. Michael Franken C. Mariannette Miller-Meeks D. Chuck Grassley",
         "answer": "D",
         "id": 104,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 5th congressional district of Kentucky in the 2022 U.S. midterm elections?\nA. Brett Guthrie B. Geoff Young C. Conor Halbleib D. Hal Rogers",
@@ -627,7 +627,7 @@
         "question": "Who won the 10th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. David Esrati B. David Esrati C. Mike Turner D. Shontel Brown",
         "answer": "C",
         "id": 109,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the governor race of Tennessee in the 2022 U.S. midterm elections?\nA. Jason Martin B. Tim Burchett C. Heidi Campbell D. Bill Lee",
@@ -639,7 +639,7 @@
         "question": "Who won the 12th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Kay Granger B. Jamie Jordan C. Trey Hunt D. Ronny Jackson",
         "answer": "A",
         "id": 111,
-        "predicted_output": "D."
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Idaho in the 2022 U.S. midterm elections?\nA. Stephen Heidt B. Wendy Norman C. Mike Simpson D. Brad Little",
@@ -651,7 +651,7 @@
         "question": "Who won the 1st congressional district of New Mexico in the 2022 U.S. midterm elections?\nA. Gabe Vasquez B. Alexis Martinez Johnson C. Melanie Stansbury D. Michelle Garcia Holmes",
         "answer": "C",
         "id": 113,
-        "predicted_output": "B"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 2nd congressional district of Virginia in the 2022 U.S. midterm elections?\nA. Leon Benjamin B. Ben Cline C. Jen Kiggans D. Elaine Luria",
@@ -687,7 +687,7 @@
         "question": "Who won the 6th congressional district of New York in the 2022 U.S. midterm elections?\nA. Thomas Zmich B. Joseph Morelle C. Colin Schmitt D. Grace Meng",
         "answer": "D",
         "id": 119,
-        "predicted_output": "B"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 8th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Mar\u00eda Elvira Salazar B. Shante Munns C. Joanne Terry D. Bill Posey",
@@ -699,13 +699,13 @@
         "question": "Who won the 2nd congressional district of West Virginia in the 2022 U.S. midterm elections?\nA. Carol Miller B. Lacy Watson C. Barry Lee Wendell D. Alex Mooney",
         "answer": "D",
         "id": 121,
-        "predicted_output": "B"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the governor race of Wyoming in the 2022 U.S. midterm elections?\nA. Mark Gordon B. Theresa Livingston C. Harriet Hageman D. Mark Gordon",
         "answer": "A",
         "id": 122,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 5th congressional district of Washington in the 2022 U.S. midterm elections?\nA. Marie Gluesenkamp Perez B. Cathy McMorris Rodgers C. Joe Kent D. Natasha Hill",
@@ -735,7 +735,7 @@
         "question": "Who won the 2nd congressional district of Iowa in the 2022 U.S. midterm elections?\nA. Ashley Hinson B. Ryan Melton C. Liz Mathis D. Ashley Hinson",
         "answer": "A",
         "id": 127,
-        "predicted_output": "A!"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 3rd congressional district of New Mexico in the 2022 U.S. midterm elections?\nA. Teresa Leger Fernandez B. Mark Ronchetti C. Alexis Martinez Johnson D. Yvette Herrell",
@@ -753,7 +753,7 @@
         "question": "Who won the senate race of Nevada in the 2022 U.S. midterm elections?\nA. Adam Laxalt B. Sam Peters C. Catherine Cortez Masto D. Susie Lee",
         "answer": "C",
         "id": 130,
-        "predicted_output": "C"
+        "predicted_output": "According to official results, A. Adam Laxalt won the Senate race in Nevada in the 2022 U.S. midterm elections.\n\nSo, the correct answer is: **A**"
     },
     {
         "question": "Who won the senate race of Florida in the 2022 U.S. midterm elections?\nA. Joanne Terry B. Val Demings C. Robert Asencio D. Marco Rubio",
@@ -765,31 +765,31 @@
         "question": "Who won the 4th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. James Falakos B. Chuy Garc\u00eda C. Delia Ramirez D. Danny K. Davis",
         "answer": "B",
         "id": 132,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the senate race of Utah in the 2022 U.S. midterm elections?\nA. Evan McMullin B. Burgess Owens C. John Curtis D. Mike Lee",
         "answer": "D",
         "id": 133,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Bill Posey B. Charlie Crist C. John Rutherford D. N/A",
         "answer": "C",
         "id": 134,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Kyle Sinclair B. Antonio Swad C. Pat Fallon D. Iro Omere",
         "answer": "C",
         "id": 135,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 6th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Sean Casten B. Kathy Salvi C. Bill Foster D. Keith Pekau",
         "answer": "A",
         "id": 136,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of Tennessee in the 2022 U.S. midterm elections?\nA. Andy Ogles B. Heidi Campbell C. Chuck Fleischmann D. Mark Harmon",
@@ -825,13 +825,13 @@
         "question": "Who won the senate race of Alaska in the 2022 U.S. midterm elections?\nA. Mike Dunleavy B. Lisa Murkowski C. Lisa Murkowski D. Kelly Tshibaka",
         "answer": "B",
         "id": 142,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 7th congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Tim Rogers B. Richard Ausman C. Bryan Steil D. Tom Tiffany",
         "answer": "D",
         "id": 143,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 20th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Daniel Webster B. Sheila Cherfilus-McCormick C. Drew-Montez Clark D. Alan Cohn",
@@ -873,13 +873,13 @@
         "question": "Who won the senate race of South Dakota in the 2022 U.S. midterm elections?\nA. Brian Bengs B. Brian Bengs C. Dusty Johnson D. John Thune",
         "answer": "D",
         "id": 150,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 2nd congressional district of Arkansas in the 2022 U.S. midterm elections?\nA. French Hill B. Rick Crawford C. Natalie James D. Quintessa Hathaway",
         "answer": "A",
         "id": 151,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 27th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Mar\u00eda Elvira Salazar B. Annette Taddeo C. Jesus Navarro D. Anna Paulina Luna",
@@ -897,13 +897,13 @@
         "question": "Who won the senate race of Kansas in the 2022 U.S. midterm elections?\nA. Laura Kelly B. Mark Holland C. Jerry Moran D. Sharice Davids",
         "answer": "C",
         "id": 154,
-        "predicted_output": "B"
+        "predicted_output": "According to my knowledge cutoff, the correct answer is A. Laura Kelly.\n\nSo, the answer would be: A"
     },
     {
         "question": "Who won the 7th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Dan Crenshaw B. Lizzie Fletcher C. Claudia Zapata D. Johnny Teague",
         "answer": "B",
         "id": 155,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of South Carolina in the 2022 U.S. midterm elections?\nA. Jim Clyburn B. Joe Wilson C. William Timmons D. N/A",
@@ -933,7 +933,7 @@
         "question": "Who won the 5th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Billy Prempeh B. Frank Pallotta C. Thomas Kean Jr. D. Josh Gottheimer",
         "answer": "D",
         "id": 160,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 26th congressional district of California in the 2022 U.S. midterm elections?\nA. Kermit Jones B. Matt Jacobs C. Brian Maryott D. Julia Brownley",
@@ -957,7 +957,7 @@
         "question": "Who won the 7th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Anna Paulina Luna B. N/A C. Karen Green D. Cory Mills",
         "answer": "D",
         "id": 164,
-        "predicted_output": "B."
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 9th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Ben Clark B. Ted Budd C. Richard Hudson D. Pam Genant",
@@ -981,7 +981,7 @@
         "question": "Who won the 8th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Lee Stahley B. Troy Balderson C. Warren Davidson D. Vanessa Enoch",
         "answer": "C",
         "id": 168,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the at-large congressional district of Delaware in the 2022 U.S. midterm elections?\nA. Lee Murphy B. Lisa Blunt Rochester C. Lisa Blunt Rochester D. Lee Murphy",
@@ -999,7 +999,7 @@
         "question": "Who won the 9th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Amanda Waldman B. Lisa Scheller C. Dan Meuser D. Brian Fitzpatrick",
         "answer": "C",
         "id": 171,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 5th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Mary Gay Scanlon B. Aaron Bashir C. David Galluch D. Dan Pastore",
@@ -1083,13 +1083,13 @@
         "question": "Who won the 23rd congressional district of Florida in the 2022 U.S. midterm elections?\nA. Lois Frankel B. Danielle Hawk C. Joe Budd D. Jared Moskowitz",
         "answer": "D",
         "id": 185,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the at-large congressional district of Vermont in the 2022 U.S. midterm elections?\nA. Liam Madden B. Becca Balint C. Peter Welch D. Becca Balint",
         "answer": "B",
         "id": 186,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 7th congressional district of Minnesota in the 2022 U.S. midterm elections?\nA. Pete Stauber B. Dean Phillips C. Jill Abahsain D. Michelle Fischbach",
@@ -1107,7 +1107,7 @@
         "question": "Who won the governor race of Maryland in the 2022 U.S. midterm elections?\nA. Dan Cox B. Heather Mizeur C. Wes Moore D. Gregory Coll",
         "answer": "C",
         "id": 189,
-        "predicted_output": "A"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 19th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Jimmy Leon B. Jodey Arrington C. Nathan Lewis D. Claudia Zapata",
@@ -1119,7 +1119,7 @@
         "question": "Who won the 14th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Matt Kilboy B. David Joyce C. Lee Stahley D. Matt Kilboy",
         "answer": "B",
         "id": 191,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of New York in the 2022 U.S. midterm elections?\nA. Bridget Fleming B. Gregory W. Meeks C. Paul King D. Elise Stefanik",
@@ -1137,13 +1137,13 @@
         "question": "Who won the 19th congressional district of California in the 2022 U.S. midterm elections?\nA. Jimmy Panetta B. Jeff Gorman C. Stephen Houlahan D. Barbara Lee",
         "answer": "A",
         "id": 194,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 16th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Mike Kelly B. Dan Pastore C. David Galluch D. N/A",
         "answer": "A",
         "id": 195,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 9th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Delia Ramirez B. Darin LaHood C. Jan Schakowsky D. Max Rice",
@@ -1155,7 +1155,7 @@
         "question": "Who won the 2nd congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Jerry Hilliard B. Bart Goldberg C. Bob Lorinser D. John Moolenaar",
         "answer": "D",
         "id": 197,
-        "predicted_output": "C"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 1st congressional district of Virginia in the 2022 U.S. midterm elections?\nA. Rob Wittman B. Herb Jones C. Herb Jones D. Hung Cao",
@@ -1167,7 +1167,7 @@
         "question": "Who won the at-large congressional district of Wyoming in the 2022 U.S. midterm elections?\nA. Harriet Hageman B. Lynnette Grey Bull C. Lynnette Grey Bull D. Harriet Hageman",
         "answer": "A",
         "id": 199,
-        "predicted_output": "A"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 3rd congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Gary Josephson B. Joyce Beatty C. Matthew Diemer D. Lee Stahley",
@@ -1179,19 +1179,19 @@
         "question": "Who won the 4th congressional district of Utah in the 2022 U.S. midterm elections?\nA. Rick Jones B. Chris Stewart C. Burgess Owens D. Darlene McDonald",
         "answer": "C",
         "id": 201,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Hawaii in the 2022 U.S. midterm elections?\nA. Bob McDermott B. Ed Case C. Conrad Kress D. Ed Case",
         "answer": "B",
         "id": 202,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 9th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Neal Dunn B. Scotty Moore C. Daniel Webster D. Darren Soto",
         "answer": "D",
         "id": 203,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 12th congressional district of New York in the 2022 U.S. midterm elections?\nA. Jerrold Nadler B. Michael Zumbluskas C. Brian Higgins D. Jerrold Nadler",
@@ -1209,7 +1209,7 @@
         "question": "Who won the 2nd congressional district of Florida in the 2022 U.S. midterm elections?\nA. Brian Mast B. Christine Olivo C. Neal Dunn D. Al Lawson",
         "answer": "C",
         "id": 206,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. J. B. Pritzker B. Tommy Hanson C. Max Rice D. Mike Quigley",
@@ -1233,13 +1233,13 @@
         "question": "Who won the 2nd congressional district of Montana in the 2022 U.S. midterm elections?\nA. Matt Rosendale B. Matt Rosendale C. Gary Buchanan D. Gary Buchanan",
         "answer": "A",
         "id": 210,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Jevin Hodge B. Greg Stanton C. Kelly Cooper D. Javier Ramos",
         "answer": "B",
         "id": 211,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the at-large congressional district of District of Columbia in the 2022 U.S. midterm elections?\nA. Nelson Rimensnyder B. Eleanor Holmes Norton C. Eleanor Holmes Norton D. Nelson Rimensnyder",
@@ -1269,7 +1269,7 @@
         "question": "Who won the 3rd congressional district of Oregon in the 2022 U.S. midterm elections?\nA. Jamie McLeod-Skinner B. Suzanne Bonamici C. Joanna Harbour D. Earl Blumenauer",
         "answer": "D",
         "id": 216,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 38th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Duncan Klussmann B. Dan Crenshaw C. Wesley Hunt D. Tony Gonzales",
@@ -1305,13 +1305,13 @@
         "question": "Who won the governor race of Hawaii in the 2022 U.S. midterm elections?\nA. Brian Schatz B. Josh Green C. Duke Aiona D. Duke Aiona",
         "answer": "B",
         "id": 222,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the governor race of Oklahoma in the 2022 U.S. midterm elections?\nA. Joy Hofmeister B. Mary Brannon C. Naomi Andrews D. Kevin Stitt",
         "answer": "D",
         "id": 223,
-        "predicted_output": "D"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 5th congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Andy Biggs B. Blake Masters C. Javier Ramos D. N/A",
@@ -1323,7 +1323,7 @@
         "question": "Who won the senate race of North Dakota in the 2022 U.S. midterm elections?\nA. John Hoeven B. Cara Mund C. John Hoeven D. Katrina Christiansen",
         "answer": "A",
         "id": 225,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 10th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Monica De La Cruz B. Vicente Gonzalez C. Linda Nuno D. Michael McCaul",
@@ -1377,7 +1377,7 @@
         "question": "Who won the 3rd congressional district of Colorado in the 2022 U.S. midterm elections?\nA. Adam Frisch B. Yadira Caraveo C. Lauren Boebert D. Ken Buck",
         "answer": "C",
         "id": 234,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Hawaii in the 2022 U.S. midterm elections?\nA. Conrad Kress B. Jill Tokuda C. Joe Akana D. Joe Akana",
@@ -1395,7 +1395,7 @@
         "question": "Who won the 28th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Colin Allred B. Greg Abbott C. Cassy Garcia D. Henry Cuellar",
         "answer": "D",
         "id": 237,
-        "predicted_output": "C"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 3rd congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Brad Pfaff B. Ann Roe C. Derrick Van Orden D. Mark Pocan",
@@ -1407,7 +1407,7 @@
         "question": "Who won the 6th congressional district of California in the 2022 U.S. midterm elections?\nA. Tamika Hamilton B. Ami Bera C. Mike Levin D. Matt Brock",
         "answer": "B",
         "id": 239,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 1st congressional district of Colorado in the 2022 U.S. midterm elections?\nA. Jennifer Qualteri B. Diana DeGette C. Diana DeGette D. Heidi Ganahl",
@@ -1455,7 +1455,7 @@
         "question": "Who won the 9th congressional district of Tennessee in the 2022 U.S. midterm elections?\nA. David Kustoff B. Charlotte Bergmann C. Steve Cohen D. Charlotte Bergmann",
         "answer": "C",
         "id": 247,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 5th congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Mike Van Someren B. Glenn Grothman C. Mandela Barnes D. Scott L. Fitzgerald",
@@ -1497,7 +1497,7 @@
         "question": "Who won the 1st congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Mark Gonsalves B. Wade Herring C. Barry Loudermilk D. Buddy Carter",
         "answer": "D",
         "id": 254,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 32nd congressional district of Texas in the 2022 U.S. midterm elections?\nA. John Lira B. Antonio Swad C. Colin Allred D. Iro Omere",
@@ -1539,7 +1539,7 @@
         "question": "Who won the 2nd congressional district of Minnesota in the 2022 U.S. midterm elections?\nA. Angie Craig B. Jill Abahsain C. Tyler Kistner D. Jeanne Hendricks",
         "answer": "A",
         "id": 261,
-        "predicted_output": "According to Ballotpedia, Angie Craig won the 2nd congressional district of Minnesota in the 2022 U.S. midterm elections.\n\nSo, the correct answer is:\n\nA"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 3rd congressional district of Louisiana in the 2022 U.S. midterm elections?\nA. Dan Lux B. Julia Letlow C. Clay Higgins D. Holden Hoggatt",
@@ -1563,7 +1563,7 @@
         "question": "Who won the 33rd congressional district of California in the 2022 U.S. midterm elections?\nA. Will Rollins B. Pete Aguilar C. Brad Allen D. John Porter",
         "answer": "B",
         "id": 265,
-        "predicted_output": "A"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 1st congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Paul Boucher B. Ron Johnson C. Bryan Steil D. Ann Roe",
@@ -1593,7 +1593,7 @@
         "question": "Who won the governor race of Rhode Island in the 2022 U.S. midterm elections?\nA. Dan McKee B. Ashley Kalus C. Dan McKee D. David Cicilline",
         "answer": "A",
         "id": 270,
-        "predicted_output": "A!"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 4th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Patrick McHenry B. Deborah Ross C. Courtney Geels D. Valerie Foushee",
@@ -1629,7 +1629,7 @@
         "question": "Who won the 6th congressional district of Wisconsin in the 2022 U.S. midterm elections?\nA. Glenn Grothman B. Mike Gallagher C. Mandela Barnes D. N/A",
         "answer": "A",
         "id": 276,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 6th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Lisa McClain B. Whittney Williams C. Debbie Dingell D. Paul Junge",
@@ -1695,7 +1695,7 @@
         "question": "Who won the 14th congressional district of New York in the 2022 U.S. midterm elections?\nA. Alexandria Ocasio-Cortez B. Jackie Gordon C. Tina Forte D. Benine Hamdan",
         "answer": "A",
         "id": 287,
-        "predicted_output": "A"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 36th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Antonio Swad B. Jon Haire C. N/A D. Brian Babin",
@@ -1725,7 +1725,7 @@
         "question": "Who won the 21st congressional district of Texas in the 2022 U.S. midterm elections?\nA. Laura Jones B. Claudia Zapata C. John Carter D. Chip Roy",
         "answer": "D",
         "id": 292,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of Maryland in the 2022 U.S. midterm elections?\nA. David Trone B. Chris Palombi C. Chris Chaffee D. Steny Hoyer",
@@ -1743,7 +1743,7 @@
         "question": "Who won the 31st congressional district of Texas in the 2022 U.S. midterm elections?\nA. Dan McQueen B. Linda Nuno C. John Carter D. N/A",
         "answer": "C",
         "id": 295,
-        "predicted_output": "B"
+        "predicted_output": "D. N/A"
     },
     {
         "question": "Who won the senate race of Georgia in the 2022 U.S. midterm elections?\nA. Austin Scott B. Raphael Warnock C. Herschel Walker D. Marjorie Taylor Greene",
@@ -1791,7 +1791,7 @@
         "question": "Who won the 12th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Rashida Tlaib B. Steven Elliott C. Jack Bergman D. Bart Goldberg",
         "answer": "A",
         "id": 303,
-        "predicted_output": "A"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 2nd congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Eli Crane B. Tom O'Halleran C. N/A D. Jevin Hodge",
@@ -1827,25 +1827,25 @@
         "question": "Who won the 13th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Emilia Sykes B. Mike Carey C. Madison Gesiotto D. Gary Josephson",
         "answer": "A",
         "id": 309,
-        "predicted_output": "A!"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Sandy Smith B. David Rouzer C. Patrick McHenry D. Don Davis",
         "answer": "D",
         "id": 310,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 4th congressional district of Oklahoma in the 2022 U.S. midterm elections?\nA. Tom Cole B. Naomi Andrews C. Madison Horn D. Mary Brannon",
         "answer": "A",
         "id": 311,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 3rd congressional district of Texas in the 2022 U.S. midterm elections?\nA. Robin Fulford B. Keith Self C. Sandeep Srivastava D. Carmen Maria Montiel",
         "answer": "B",
         "id": 312,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 7th congressional district of Indiana in the 2022 U.S. midterm elections?\nA. Angela Grabovsky B. Jeannine Lee Lake C. Andr\u00e9 Carson D. Rudy Yakym",
@@ -1875,13 +1875,13 @@
         "question": "Who won the 2nd congressional district of Texas in the 2022 U.S. midterm elections?\nA. Dan Crenshaw B. Robin Fulford C. Nathan Lewis D. Claudia Zapata",
         "answer": "A",
         "id": 317,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the governor race of Vermont in the 2022 U.S. midterm elections?\nA. Phil Scott B. Brenda Siegel C. Phil Scott D. Brenda Siegel",
         "answer": "A",
         "id": 318,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 15th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Alan Cohn B. Eric Lynn C. Aaron Bean D. Laurel Lee",
@@ -1893,25 +1893,25 @@
         "question": "Who won the 21st congressional district of Florida in the 2022 U.S. midterm elections?\nA. Brian Mast B. Corinna Balderramos Robinson C. Carla Spalding D. Robert Asencio",
         "answer": "A",
         "id": 320,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 8th congressional district of New York in the 2022 U.S. midterm elections?\nA. Jerrold Nadler B. Yuri Dashevsky C. Hakeem Jeffries D. Pat Ryan",
         "answer": "C",
         "id": 321,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 3rd congressional district of Iowa in the 2022 U.S. midterm elections?\nA. Michael Franken B. Cindy Axne C. Ryan Melton D. Zach Nunn",
         "answer": "D",
         "id": 322,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 3rd congressional district of Minnesota in the 2022 U.S. midterm elections?\nA. Tom Weiler B. Dean Phillips C. Cicely Davis D. Angie Craig",
         "answer": "B",
         "id": 323,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 12th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Mike Doyle B. Dwight Evans C. Summer Lee D. Shamaine Daniels",
@@ -1923,7 +1923,7 @@
         "question": "Who won the 11th congressional district of Virginia in the 2022 U.S. midterm elections?\nA. Jen Kiggans B. James Myles C. Morgan Griffith D. Gerry Connolly",
         "answer": "D",
         "id": 325,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 20th congressional district of California in the 2022 U.S. midterm elections?\nA. Kevin McCarthy B. Douglas Brower C. Marisa Wood D. Jared Huffman",
@@ -1941,7 +1941,7 @@
         "question": "Who won the 1st congressional district of Oklahoma in the 2022 U.S. midterm elections?\nA. Kevin Hern B. Kevin Stitt C. Josh Brecheen D. Adam Martin",
         "answer": "A",
         "id": 328,
-        "predicted_output": "B"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the senate race of Arizona in the 2022 U.S. midterm elections?\nA. David Schweikert B. Katie Hobbs C. Blake Masters D. Mark Kelly",
@@ -1953,7 +1953,7 @@
         "question": "Who won the 3rd congressional district of Tennessee in the 2022 U.S. midterm elections?\nA. Meg Gorman B. Charlotte Bergmann C. Heidi Campbell D. Chuck Fleischmann",
         "answer": "D",
         "id": 330,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the senate race of Connecticut in the 2022 U.S. midterm elections?\nA. Mike France B. Leora Levy C. Richard Blumenthal D. Lesley DeNardis",
@@ -1965,7 +1965,7 @@
         "question": "Who won the 6th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Brad Wenstrup B. Louis Lyras C. Bill Johnson D. Mike Turner",
         "answer": "C",
         "id": 332,
-        "predicted_output": "A!"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Rhode Island in the 2022 U.S. midterm elections?\nA. Seth Magaziner B. Seth Magaziner C. Ashley Kalus D. Allan Fung",
@@ -1977,7 +1977,7 @@
         "question": "Who won the 4th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Chris Smith B. Matthew Jenkins C. Darius Mayfield D. Bonnie Watson Coleman",
         "answer": "A",
         "id": 334,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 21st congressional district of California in the 2022 U.S. midterm elections?\nA. David Canepa B. Michael Maher C. Rudy Salas D. Jim Costa",
@@ -1995,7 +1995,7 @@
         "question": "Who won the 3rd congressional district of Florida in the 2022 U.S. midterm elections?\nA. Kat Cammack B. Kathy Castor C. Danielle Hawk D. Matt Gaetz",
         "answer": "A",
         "id": 337,
-        "predicted_output": "A!"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 4th congressional district of Nevada in the 2022 U.S. midterm elections?\nA. Joe Lombardo B. Mark Robertson C. Sam Peters D. Steven Horsford",
@@ -2061,7 +2061,7 @@
         "question": "Who won the 7th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Frank Pallotta B. Bob Healey Jr. C. Tom Malinowski D. Thomas Kean Jr.",
         "answer": "D",
         "id": 348,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 7th congressional district of Missouri in the 2022 U.S. midterm elections?\nA. Trish Gunby B. Kristen Radaker-Sheafer C. Eric Burlison D. Henry Martin",
@@ -2073,7 +2073,7 @@
         "question": "Who won the 20th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Wesley Hunt B. Kyle Sinclair C. Keith Self D. Joaquin Castro",
         "answer": "D",
         "id": 350,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 4th congressional district of Washington in the 2022 U.S. midterm elections?\nA. Dan Newhouse B. Matt Larkin C. Marilyn Strickland D. Doug White",
@@ -2115,7 +2115,7 @@
         "question": "Who won the 17th congressional district of California in the 2022 U.S. midterm elections?\nA. Tyler Geffeney B. Ritesh Tandon C. Eric Swalwell D. Ro Khanna",
         "answer": "D",
         "id": 357,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the at-large congressional district of Alaska in the 2022 U.S. midterm elections?\nA. Sarah Palin B. Sarah Palin C. Mary Peltola D. Mary Peltola",
@@ -2139,7 +2139,7 @@
         "question": "Who won the 1st congressional district of Missouri in the 2022 U.S. midterm elections?\nA. Jacob Turk B. Emanuel Cleaver C. Cori Bush D. Andrew Jones",
         "answer": "C",
         "id": 361,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 3rd congressional district of Alabama in the 2022 U.S. midterm elections?\nA. Lin Veasey B. Dale Strong C. Mike D. Rogers D. Rick Neighbors",
@@ -2157,7 +2157,7 @@
         "question": "Who won the 8th congressional district of Indiana in the 2022 U.S. midterm elections?\nA. Ray McCormick B. Gary Snyder C. Matthew Fyfe D. Larry Bucshon",
         "answer": "D",
         "id": 364,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 19th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Byron Donalds B. Cindy Banyai C. Bill Posey D. Drew-Montez Clark",
@@ -2199,7 +2199,7 @@
         "question": "Who won the 1st congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Nikki Budzinski B. Darren Bailey C. Jonathan Jackson D. Eric Carlson",
         "answer": "C",
         "id": 371,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 11th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Marcos Arroyo B. Paul DeGroot C. Billy Prempeh D. Mikie Sherrill",
@@ -2211,7 +2211,7 @@
         "question": "Who won the 2nd congressional district of Nebraska in the 2022 U.S. midterm elections?\nA. Don Bacon B. Mike Flood C. Carol Blood D. Tony Vargas",
         "answer": "A",
         "id": 373,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 5th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Gary Josephson B. Bob Latta C. Greg Landsman D. Craig Swartz",
@@ -2241,7 +2241,7 @@
         "question": "Who won the 47th congressional district of California in the 2022 U.S. midterm elections?\nA. Katie Porter B. Salud Carbajal C. Katie Porter D. Scott Baugh",
         "answer": "A",
         "id": 378,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 15th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Mike Carey B. Gary Josephson C. Vanessa Enoch D. Emilia Sykes",
@@ -2295,7 +2295,7 @@
         "question": "Who won the 1st congressional district of Arizona in the 2022 U.S. midterm elections?\nA. David Schweikert B. Katie Hobbs C. Eli Crane D. Jevin Hodge",
         "answer": "A",
         "id": 387,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the governor race of California in the 2022 U.S. midterm elections?\nA. Brian Dahle B. Sydney Kamlager C. Pete Aguilar D. Gavin Newsom",
@@ -2307,7 +2307,7 @@
         "question": "Who won the 2nd congressional district of New Hampshire in the 2022 U.S. midterm elections?\nA. Robert Burns B. Don Bolduc C. Robert Burns D. Annie Kuster",
         "answer": "D",
         "id": 389,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of New Hampshire in the 2022 U.S. midterm elections?\nA. Karoline Leavitt B. Chris Pappas C. Annie Kuster D. Maggie Hassan",
@@ -2337,7 +2337,7 @@
         "question": "Who won the 1st congressional district of New York in the 2022 U.S. midterm elections?\nA. Nick LaLota B. Kathy Hochul C. Bridget Fleming D. Brian Higgins",
         "answer": "A",
         "id": 394,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 8th congressional district of New Jersey in the 2022 U.S. midterm elections?\nA. Darius Mayfield B. Donald Norcross C. Marcos Arroyo D. Rob Menendez",
@@ -2349,7 +2349,7 @@
         "question": "Who won the 1st congressional district of West Virginia in the 2022 U.S. midterm elections?\nA. Carol Miller B. Carol Miller C. Lacy Watson D. Barry Lee Wendell",
         "answer": "A",
         "id": 396,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Kentucky in the 2022 U.S. midterm elections?\nA. Jimmy Ausbrooks B. Hank Linderman C. Andy Barr D. Brett Guthrie",
@@ -2373,7 +2373,7 @@
         "question": "Who won the governor race of Wisconsin in the 2022 U.S. midterm elections?\nA. Tim Michels B. Tony Evers C. Tom Tiffany D. Erik Olsen",
         "answer": "B",
         "id": 400,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 48th congressional district of California in the 2022 U.S. midterm elections?\nA. Stephen Houlahan B. Darrell Issa C. David Canepa D. Daniel Martinez",
@@ -2397,7 +2397,7 @@
         "question": "Who won the 6th congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Kirsten Engel B. Juan Ciscomani C. Juan Ciscomani D. Blake Masters",
         "answer": "B",
         "id": 404,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 12th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Paul Lange B. Chip Markel C. Mike Bost D. Delia Ramirez",
@@ -2409,13 +2409,13 @@
         "question": "Who won the 15th congressional district of California in the 2022 U.S. midterm elections?\nA. Nanette Barrag\u00e1n B. David Canepa C. Ami Bera D. Kevin Mullin",
         "answer": "D",
         "id": 406,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the senate race of Oregon in the 2022 U.S. midterm elections?\nA. Ron Wyden B. Christopher Mann C. Val Hoyle D. Jo Rae Perkins",
         "answer": "A",
         "id": 407,
-        "predicted_output": "A"
+        "predicted_output": "A!"
     },
     {
         "question": "Who won the 12th congressional district of Ohio in the 2022 U.S. midterm elections?\nA. Emilia Sykes B. Jim Jordan C. Troy Balderson D. Amy Rippel-Elton",
@@ -2451,13 +2451,13 @@
         "question": "Who won the governor race of Florida in the 2022 U.S. midterm elections?\nA. Charlie Crist B. Carla Spalding C. Ron DeSantis D. Kat Cammack",
         "answer": "C",
         "id": 413,
-        "predicted_output": "C"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 16th congressional district of New York in the 2022 U.S. midterm elections?\nA. Yuri Dashevsky B. Kathy Hochul C. Miriam Flisser D. Jamaal Bowman",
         "answer": "D",
         "id": 414,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the senate race of Kentucky in the 2022 U.S. midterm elections?\nA. Stuart Ray B. Rand Paul C. Charles Booker D. Jimmy Ausbrooks",
@@ -2499,7 +2499,7 @@
         "question": "Who won the governor race of Michigan in the 2022 U.S. midterm elections?\nA. Whittney Williams B. Gretchen Whitmer C. Tom Barrett D. Tudor Dixon",
         "answer": "B",
         "id": 421,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the governor race of Minnesota in the 2022 U.S. midterm elections?\nA. Tim Walz B. Angie Craig C. Scott Jensen D. Tyler Kistner",
@@ -2511,7 +2511,7 @@
         "question": "Who won the 8th congressional district of Washington in the 2022 U.S. midterm elections?\nA. Rick Larsen B. Matt Larkin C. Kim Schrier D. Adam Smith",
         "answer": "C",
         "id": 423,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 26th congressional district of New York in the 2022 U.S. midterm elections?\nA. Steven Sams B. Brian Higgins C. Max Rose D. Laura Gillen",
@@ -2529,13 +2529,13 @@
         "question": "Who won the 5th congressional district of Minnesota in the 2022 U.S. midterm elections?\nA. Brad Finstad B. Cicely Davis C. Ilhan Omar D. Angie Craig",
         "answer": "C",
         "id": 426,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 12th congressional district of California in the 2022 U.S. midterm elections?\nA. Adam Gray B. Stephen Slauson C. John Porter D. Barbara Lee",
         "answer": "D",
         "id": 427,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 10th congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Don Davis B. Pam Genant C. Jasmine Beach-Ferrara D. Patrick McHenry",
@@ -2583,7 +2583,7 @@
         "question": "Who won the 3rd congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Ra\u00fal Grijalva B. Kari Lake C. Ruben Gallego D. Jeff Zink",
         "answer": "C",
         "id": 435,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 8th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Esther Joy King B. Chris Dargis C. Delia Ramirez D. Raja Krishnamoorthi",
@@ -2595,13 +2595,13 @@
         "question": "Who won the 51st congressional district of California in the 2022 U.S. midterm elections?\nA. Stan Caplan B. Christopher Gonzales C. Grace Napolitano D. Sara Jacobs",
         "answer": "D",
         "id": 437,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 8th congressional district of Arizona in the 2022 U.S. midterm elections?\nA. Ruben Gallego B. Jeff Zink C. Debbie Lesko D. N/A",
         "answer": "C",
         "id": 438,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 7th congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Mark Gonsalves B. Lucy McBath C. Rich McCormick D. Bob Christian",
@@ -2619,13 +2619,13 @@
         "question": "Who won the 50th congressional district of California in the 2022 U.S. midterm elections?\nA. John Duarte B. Julia Brownley C. Corey Gustafson D. Scott Peters",
         "answer": "D",
         "id": 441,
-        "predicted_output": "A"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 22nd congressional district of California in the 2022 U.S. midterm elections?\nA. Eric Ching B. Derek Marshall C. Rudy Salas D. David Valadao",
         "answer": "D",
         "id": 442,
-        "predicted_output": "B"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 26th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Michael C. Burgess B. Maclovio P\u00e9rez C. Mike Kolls D. Brian Babin",
@@ -2637,13 +2637,13 @@
         "question": "Who won the 26th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Mario D\u00edaz-Balart B. N/A C. Christine Olivo D. Michael Waltz",
         "answer": "A",
         "id": 444,
-        "predicted_output": "B"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 11th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Haley Stevens B. John Gibbs C. Mark Ambrose D. Jack Bergman",
         "answer": "A",
         "id": 445,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Montana in the 2022 U.S. midterm elections?\nA. Monica Tranel B. Ryan Zinke C. Ryan Zinke D. Matt Rosendale",
@@ -2655,7 +2655,7 @@
         "question": "Who won the 1st congressional district of Maryland in the 2022 U.S. midterm elections?\nA. Glenn Ivey B. Heather Mizeur C. Andy Harris D. Andy Harris",
         "answer": "C",
         "id": 447,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 1st congressional district of Connecticut in the 2022 U.S. midterm elections?\nA. John B. Larson B. Mike France C. Larry Lazor D. Leora Levy",
@@ -2685,7 +2685,7 @@
         "question": "Who won the senate race of Hawaii in the 2022 U.S. midterm elections?\nA. Ed Case B. Joe Akana C. Brian Schatz D. Bob McDermott",
         "answer": "C",
         "id": 452,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 2nd congressional district of Maryland in the 2022 U.S. midterm elections?\nA. Chris Palombi B. Nicolee Ambrose C. David Trone D. Dutch Ruppersberger",
@@ -2703,7 +2703,7 @@
         "question": "Who won the governor race of Alaska in the 2022 U.S. midterm elections?\nA. Mary Peltola B. Les Gara C. Mike Dunleavy D. Les Gara",
         "answer": "C",
         "id": 455,
-        "predicted_output": "A!"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 22nd congressional district of New York in the 2022 U.S. midterm elections?\nA. Francis Conole B. Benine Hamdan C. Brandon Williams D. Jamaal Bowman",
@@ -2763,19 +2763,19 @@
         "question": "Who won the 8th congressional district of Michigan in the 2022 U.S. midterm elections?\nA. Dan Kildee B. Lisa McClain C. Paul Junge D. Gretchen Whitmer",
         "answer": "A",
         "id": 465,
-        "predicted_output": "A"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 5th congressional district of Indiana in the 2022 U.S. midterm elections?\nA. Roger Day B. Victoria Spartz C. Greg Pence D. Jeannine Lee Lake",
         "answer": "B",
         "id": 466,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 3rd congressional district of North Carolina in the 2022 U.S. midterm elections?\nA. Virginia Foxx B. Greg Murphy C. Barbara Gaskins D. Dan Bishop",
         "answer": "B",
         "id": 467,
-        "predicted_output": "A!"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Kansas in the 2022 U.S. midterm elections?\nA. Tracey Mann B. Sharice Davids C. Bob Hernandez D. Jimmy Beard",
@@ -2793,7 +2793,7 @@
         "question": "Who won the senate race of South Carolina in the 2022 U.S. midterm elections?\nA. Tim Scott B. William Timmons C. Joe Wilson D. Krystle Matthews",
         "answer": "A",
         "id": 470,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the senate race of Louisiana in the 2022 U.S. midterm elections?\nA. Steve Scalise B. Dan Lux C. Gary Chambers D. John Kennedy",
@@ -2805,7 +2805,7 @@
         "question": "Who won the 35th congressional district of California in the 2022 U.S. midterm elections?\nA. Mike Cargile B. Mike Cargile C. Marisa Wood D. Norma Torres",
         "answer": "D",
         "id": 472,
-        "predicted_output": "D"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 45th congressional district of California in the 2022 U.S. midterm elections?\nA. Jay Chen B. Jay Chen C. Scott Peters D. Michelle Steel",
@@ -2829,7 +2829,7 @@
         "question": "Who won the 3rd congressional district of Kentucky in the 2022 U.S. midterm elections?\nA. Stuart Ray B. Morgan McGarvey C. Hank Linderman D. Rand Paul",
         "answer": "B",
         "id": 476,
-        "predicted_output": "C"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 1st congressional district of Massachusetts in the 2022 U.S. midterm elections?\nA. Lori Trahan B. Dean Martilli C. Richard Neal D. Maura Healey",
@@ -2841,7 +2841,7 @@
         "question": "Who won the 17th congressional district of Illinois in the 2022 U.S. midterm elections?\nA. Esther Joy King B. Raja Krishnamoorthi C. Catalina Lauf D. Eric Sorensen",
         "answer": "D",
         "id": 478,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 3rd congressional district of South Carolina in the 2022 U.S. midterm elections?\nA. Jeff Duncan B. N/A C. N/A D. Jeff Duncan",
@@ -2865,7 +2865,7 @@
         "question": "Who won the governor race of Idaho in the 2022 U.S. midterm elections?\nA. Brad Little B. David Roth C. Stephen Heidt D. Mike Simpson",
         "answer": "A",
         "id": 482,
-        "predicted_output": "The correct answer is A.\n\nSo, the answer would be: A"
+        "predicted_output": "A!\n\nAccording to my knowledge, Brad Little won the governor race of Idaho in the 2022 U.S. midterm elections.\n\nSo, the correct answer is:\n\nA"
     },
     {
         "question": "Who won the 16th congressional district of Florida in the 2022 U.S. midterm elections?\nA. Jan Schneider B. Alan Cohn C. Vern Buchanan D. Maxwell Frost",
@@ -2895,13 +2895,13 @@
         "question": "Who won the 1st congressional district of Washington in the 2022 U.S. midterm elections?\nA. Suzan DelBene B. Joe Kent C. Vincent Cavaleri D. Cliff Moon",
         "answer": "A",
         "id": 487,
-        "predicted_output": "B"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 1st congressional district of California in the 2022 U.S. midterm elections?\nA. Will Rollins B. Josh Harder C. Doug LaMalfa D. Max Steiner",
         "answer": "C",
         "id": 488,
-        "predicted_output": "According to official election results, the winner of the 1st congressional district of California in the 2022 U.S. midterm elections was Will Rollins.\n\nCorrect answer: A"
+        "predicted_output": "A"
     },
     {
         "question": "Who won the 1st congressional district of Utah in the 2022 U.S. midterm elections?\nA. Rick Jones B. Blake Moore C. Blake Moore D. Burgess Owens",
@@ -2919,7 +2919,7 @@
         "question": "Who won the 6th congressional district of South Carolina in the 2022 U.S. midterm elections?\nA. Jim Clyburn B. Tim Scott C. Duke Buckner D. William Timmons",
         "answer": "A",
         "id": 491,
-        "predicted_output": "A"
+        "predicted_output": "A."
     },
     {
         "question": "Who won the 4th congressional district of Pennsylvania in the 2022 U.S. midterm elections?\nA. Christian Nascimento B. Glenn Thompson C. Mike Kelly D. Madeleine Dean",
@@ -2973,13 +2973,13 @@
         "question": "Who won the 1st congressional district of Idaho in the 2022 U.S. midterm elections?\nA. Russ Fulcher B. Kaylee Peterson C. Kaylee Peterson D. Mike Crapo",
         "answer": "A",
         "id": 500,
-        "predicted_output": "A!"
+        "predicted_output": "B"
     },
     {
         "question": "Who won the 42nd congressional district of California in the 2022 U.S. midterm elections?\nA. John Briscoe B. Daniel Martinez C. Barbara Lee D. Robert Garcia",
         "answer": "D",
         "id": 501,
-        "predicted_output": "C"
+        "predicted_output": "D"
     },
     {
         "question": "Who won the 6th congressional district of Georgia in the 2022 U.S. midterm elections?\nA. Rich McCormick B. Hank Johnson C. Sanford Bishop D. Bob Christian",
@@ -3021,7 +3021,7 @@
         "question": "Who won the governor race of Ohio in the 2022 U.S. midterm elections?\nA. Mike DeWine B. Eric Brewer C. Nan Whaley D. Mike DeWine",
         "answer": "A",
         "id": 508,
-        "predicted_output": "D"
+        "predicted_output": "C"
     },
     {
         "question": "Who won the 8th congressional district of Texas in the 2022 U.S. midterm elections?\nA. Morgan Luttrell B. Dan Crenshaw C. Laura Jones D. Jimmy Leon",
